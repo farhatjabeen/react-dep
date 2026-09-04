@@ -6,9 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
+        <h1>🚀 GitOps Auto Deployment Working!</h1>
+
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This UI was automatically deployed using GitHub Actions + ECR + Argo CD.
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
