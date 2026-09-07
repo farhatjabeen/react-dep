@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1> GitOps Auto Deployment!</h1>
+        <h1> GitOps Auto Deployment!!!!!!</h1>
 
         <p>
           This UI was automatically deployed using GitHub Actions + ECR + Argo CD.
